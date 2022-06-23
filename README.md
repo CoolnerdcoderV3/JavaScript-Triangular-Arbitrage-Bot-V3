@@ -12,6 +12,8 @@ https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/ma
 
 Here a youtube video of how to config the bot here
 
+https://youtu.be/nNDD_WNAbsM
+
 Here the 28days results of running it 24/7
 
 <img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/28days.png" width="750px" >
