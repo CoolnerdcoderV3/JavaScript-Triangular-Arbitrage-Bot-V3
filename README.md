@@ -32,7 +32,7 @@ Part 2. Editing the settings.
 
 Open the bots main folder and find "config.js" file and open it with a text-editor:
 
-<img src="" >
+<img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/Screenshot%2006-23-2022%2009.54.22.png" >
 
 1.Set your public address and private key or your wallet seed if you have a wallet that does not give you the private key
 
