@@ -12,8 +12,13 @@ https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/ma
 
 Here a youtube video of how to config the bot here
 
+Here the 28days results of running it 24/7
+
+<img src="" width="650px" >
+
 Here the bot in action finding a arbitrage
-<img src="" >
+
+<img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/Screenshot%2006-23-2022%2009.44.32.png" width="650px" >
 
 How to config the bot
 
