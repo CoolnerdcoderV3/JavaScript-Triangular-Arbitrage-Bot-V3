@@ -20,6 +20,9 @@ Here the bot in action finding a arbitrage
 
 <img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/Screenshot%2006-23-2022%2009.44.32.png" width="750px" >
 
+
+I won 4th place on the version 1 of the program I will be entering the version 2 this year
+<img src="" width="750px">
 How to config the bot
 
 Let’s get started.
