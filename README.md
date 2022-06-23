@@ -46,6 +46,7 @@ Open the bots main folder and find "config.js" file and open it with a text-edit
 3.Save config.js
 
 4.Open index.html in any web-browser
+
 <img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/Screenshot%2006-23-2022%2009.54.51.png" >
 
 Happy hunting! :)
